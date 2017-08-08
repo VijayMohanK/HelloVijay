@@ -1,6 +1,8 @@
 # HelloVijay
 For Initial Learning purpose of GitHub
 
+Vijay Mohan Here.
 
-Vijay here. I would be starting my GitHub Learning here.
-This is my first branch Edit.
+
+I would be starting my GitHub Learning here.
+This is my first branch Edit. continuing the edits
